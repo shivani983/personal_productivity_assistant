@@ -14,7 +14,7 @@ list_of_files = [
     "static/style.css",
     "app.py",
     ".env",
-    "Dockerfile"
+    "Dockerfile",
     "requirements.txt",
     "templates/index.html",
 ]
