@@ -11,10 +11,10 @@ https://github.com/shivani983/personal_productivity_assistant.git
 ## step 01- create a conda environment after opening the repository
 
 ```bash
-conda create -n agentapp python=3.12 -y
+conda create -n agentapp1 python=3.12 -y
 ```
 ```bash
-conda activate agentapp
+conda activate agentapp1
 ```
 
 ## step 02- install the required packages
